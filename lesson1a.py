@@ -8,7 +8,7 @@ print(message)
 message2 = "Goodbye!"
 print(message2)
 
-#concatenating variable (Joining two or more outputs together)
+#concatenating variable (Joining two or more outputs together)you can only concatenate two strings
 message3 = message + message2
 
 #variable can be named using a letter, number and an underscore.They can start with a letter and an underscore but not with a number
